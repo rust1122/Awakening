@@ -1,4 +1,4 @@
-## Awakening: AI-Assisted Creativity (Introduction Only)
+## Awakening: AI-Assisted Creativity
 
 A practical introduction to AI-assisted creativity. This repository focuses on methods, workflows, and evaluation—not a full tutorial. Goal: help you quickly build a usable creative workflow and make informed tool choices.
 
